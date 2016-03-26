@@ -406,6 +406,6 @@ echo '<div class="MenuHead"><a href="/"><div class="Menu">Главная</div></
 }
 
 function Footer () {
-echo '<footer class="footer"><a href="https://www.youtube.com/channel/UCpEWlcj5rkU1H9vkIf9Lb5g" target="blank">Мой канал на YouTube</a> | <a href="http://vk.com/php.youtube" target="blank">Моя группа ВК</a> - Пишем свой движок на PHP | <a href="/archive">АРХИВЫ С КОДОМ</a> | Сайт размещен на хостинге <a href="http://bit.ly/1udgNg0" target="blank">Time Web</a> ( <a href="https://www.youtube.com/watch?v=nCoD_3Ecfv4" target="blank">Обзор Хостинга</a> ) - Рекомендую!</footer>';
+echo '<footer class="footer"><a href="#" target="blank">Мой движ</a> | <a href="VK.com" target="blank">ВК</a> - Мой движ | <a href="/archive">АРХИВ</a> | Сайт <a href="№" target="blank">Сайт</a> ( <a href="№" target="blank">Сайт</a> )</footer>';
 }
 ?>
